@@ -1,4 +1,4 @@
 # MusicPlayer
 This is a simple program that plays a list of pre-downloaded songs.
 
-https://github.com/user-attachments/assets/658720ba-86f5-4043-ba16-3c92c77a40c4
+<img width="741" alt="Screenshot 2025-04-25 at 5 35 26 PM" src="https://github.com/user-attachments/assets/ad5c448b-cd84-4abb-bdbb-db01cca26be6" />
